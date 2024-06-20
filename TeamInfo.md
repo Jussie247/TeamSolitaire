@@ -9,8 +9,8 @@
 
 
 **Justus**:
-- **Github:** [Repository](https://github.com/Jussyy/Code-1)
-- **Table of Content:** [Table of Content - Justus](https://jussie247.github.io/TeamSolitaire/)
+- **Github:** [Repository](https://github.com/Jussie247/Code-1)
+- **Table of Content:** [Table of Content - Justus](https://jussie247.github.io/Code-1/)
 
 
 
