@@ -22,6 +22,21 @@
 
 
 
+**Andi**:
+- **Github:** [Repository](https://github.com/sheeshkebap/Code1)
+- **Table of Content:** [Table of Content - Andi](https://sheeshkebap.github.io/Code1/)
+
+
+
+
+
+
+
+![1000_F_544974007_geboQfM0c2Nxt8YmpjozPWrT9dcTmdcT](https://github.com/Jussie247/TeamSolitaire/assets/173393971/11cfc50e-7066-4140-8a64-aabd59957101)
+
+
+
+
 
 
 
@@ -33,6 +48,7 @@
 
 
   
+![2D__57497__49826](https://github.com/Jussie247/TeamSolitaire/assets/173393971/45cea208-1378-404b-aab5-64053b22bf1d)
 
 
 
@@ -42,7 +58,11 @@
 - **Github:** [Repository](https://github.com/SemihCode1/Code1)
 - **Table of Content:** [Table of Content - Semih](https://semihcode1.github.io/Code1/)
 
-![Unbenannt](https://github.com/Jussyy/Team-Solitaire/assets/173050133/99cfb33b-b7a4-447c-b618-e881e6c82f80)
+
+
+
+![7_of_clubs](https://github.com/Jussie247/TeamSolitaire/assets/173393971/5908d4cb-7f01-4b8b-84d6-231ab9473907)
+
 
 
 
@@ -59,7 +79,8 @@
 
 
 
-![image](https://github.com/Jussyy/Team-Solitaire/assets/80951503/4ea7b7d4-2125-42e7-82a5-cea9fc6f697f)
+![31vmXJ1UqTL _AC_UF894,1000_QL80_](https://github.com/Jussie247/TeamSolitaire/assets/173393971/5f5fc170-75da-4652-a44b-b1ac53ca4696)
+
 
 
 
@@ -69,14 +90,5 @@
 
      
 
-**Andi**:
-- **Github:** [Repository](https://github.com/sheeshkebap/Code1)
-- **Table of Content:** [Table of Content - Andi](https://sheeshkebap.github.io/Code1/)
 
 
-
-
-
-
-
-![image](https://github.com/Jussyy/Team-Solitaire/assets/173050887/8b20a414-61d4-447c-b228-804b1ad6951c)
