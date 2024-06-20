@@ -17,7 +17,8 @@
 
 
 
-![image](https://github.com/Jussyy/Team-Solitaire/assets/80951503/b60484ba-7b5f-4b1a-a0ad-895d7c0a9618)
+![image](![istockphoto-502944230-612x612](https://github.com/Jussie247/TeamSolitaire/assets/173393971/b38bfb30-82fb-4895-aa03-e7a9971dc13c)
+)
 
 
 
@@ -31,7 +32,7 @@
 
 
 
-![image](https://github.com/Jussyy/Team-Solitaire/assets/80951503/6443fafc-1bb2-4238-a714-af3292ae37c8)
+  
 
 
 
