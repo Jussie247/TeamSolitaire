@@ -1,6 +1,6 @@
 # Team-Solitaire
 
-**Page:** [Pages link](https://jussyy.github.io/Team-Solitaire/)
+**Page:** [Pages link](https://jussie247.github.io/TeamSolitaire/)
 
 ## Code 1
 
@@ -10,7 +10,7 @@
 
 **Justus**:
 - **Github:** [Repository](https://github.com/Jussyy/Code-1)
-- **Table of Content:** [Table of Content - Justus](https://jussyy.github.io/Code-1/)
+- **Table of Content:** [Table of Content - Justus](https://jussie247.github.io/TeamSolitaire/)
 
 
 
