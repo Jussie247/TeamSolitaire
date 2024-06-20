@@ -17,7 +17,8 @@
 
 
 
-![image](![istockphoto-502944230-612x612](https://github.com/Jussie247/TeamSolitaire/assets/173393971/b38bfb30-82fb-4895-aa03-e7a9971dc13c))
+![istockphoto-502944230-612x612](https://github.com/Jussie247/TeamSolitaire/assets/173393971/96bb4360-d164-40c3-bdc5-f1de5a0cd951)
+
 
 
 
