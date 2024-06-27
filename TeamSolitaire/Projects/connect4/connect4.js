@@ -8,5 +8,9 @@ var connect4;
     window.addEventListener("load", handleLoad);
     function handleLoad() {
         const startButton = document.getElementById("start-game");
+        startButton.addEventListener("click", startGame);
+    }
+    function startGame() {
+        const boardSizeSelect = document.getElementById("board-size");
     }
 })(connect4 || (connect4 = {}));
