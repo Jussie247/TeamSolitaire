@@ -8,7 +8,11 @@ namespace connect4 {
 
     function handleLoad(): void {
         const startButton = document.getElementById("start-game")!;
+        startButton.addEventListener("click", startGame)
+
+    }
+    function startGame(): void {
+        const boardSizeSelect = document.getElementById("board-size") as HTMLSelectElement;
         
     }
-
 }
