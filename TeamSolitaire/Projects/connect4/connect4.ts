@@ -42,15 +42,24 @@ namespace Connect4 {
         if (!target.classList.contains("cell")) return;
 
         const col = parseInt(target.dataset.col!);
-        placeCoin(col);
+        const row = parseInt(target.dataset.row!);
+        placeCoin(col, row);
+        if (currentPlayer == "player1") {
+            currentPlayer = "player2"
+        }
+        else {
+            currentPlayer = "player1"
+        }
     }
 
-    function placeCoin(col: number): void {
-        const cells = document.querySelectorAll(`.cell[data-col='${col}']`);
+    function placeCoin(col: number, row: number): void {
+        const cells = document.querySelectorAll(`.cell[data-col='${col}'][data-row='${row}']`);
         for (let i = cells.length - 1; i >= 0; i--) {
             const cell = cells[i] as HTMLElement;
             if (!cell.classList.contains("player1") && !cell.classList.contains("player2")) {
                 cell.classList.add(currentPlayer);
+               if (currentPlayer == "player1") cell.classList.add("player1");
+               if (currentPlayer == "player2") cell.classList.add("player2");
               
             }
         }
